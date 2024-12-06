@@ -1,2 +1,4 @@
 # Hospital-management-system
-Team work 
+Team work:
+Python programming
+SQL database
